@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.wav
+*.pyc
+*.txt
+.DS_Store
+build/
+dist/
+*.spec
+*.sh
+!brtn.sh
+!run_transcriber.sh
